@@ -6,7 +6,7 @@
 
 ---
 
-# **👋 About Me**
+## **👋 About Me**
 
 Hi, I'm Thaliban Allaam and I am an upcoming talent transtitioning into the data field.
 
