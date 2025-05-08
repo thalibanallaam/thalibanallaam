@@ -1,4 +1,4 @@
-# **Thaliban Allaam Adristo - Data Enthusiast**
+# **Thaliban Allaam Adristo | Data Enthusiast**
 
 - 🎓 Full-Time Data Science Bootcamp Hactiv8
 - 🎓 Electrical Engineering Universitas Gadjah Mada (UGM)  
